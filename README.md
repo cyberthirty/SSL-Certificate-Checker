@@ -4,6 +4,7 @@ It checks SSL Certificate lifetime
 `
 git clone https://github.com/cyberthirty/SSL-Certificate-Checker.git
 `
+
 `
 go run "ssl cert checker.go" -u example.com -p 443
 `
